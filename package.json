@@ -1,0 +1,27 @@
+{
+  "name": "consumodeapi-fundamental",
+  "version": "1.0.0",
+  "description": "Curso de consumo de API REST con JS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickNic/consumo-de-API--1.git"
+  },
+  "keywords": [
+    "js",
+    "apiRest",
+    "api"
+  ],
+  "author": "Erick Meza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickNic/consumo-de-API--1/issues"
+  },
+  "homepage": "https://github.com/ErickNic/consumo-de-API--1#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
